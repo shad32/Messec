@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MessSec</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="parseAppID">YJc7uK5IBawJpN0LQya7DPwk5JuaIjAtRq1Sl7qc</string>
+    <string name="parseClientID">OCyp64iqMtFvmhIEugjG2yjgiigCVJufp2vd2MRn</string>
+</resources>
